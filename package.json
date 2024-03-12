@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "ws": "^8.16.0"
+  },
+  "optionalDependencies": {
+    "bufferuti": "*"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module"
+}
